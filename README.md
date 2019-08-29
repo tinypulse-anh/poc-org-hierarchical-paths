@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Proof-of-concept for gettings hierarchical paths from organization IDs.
+Proof-of-concept for getting hierarchical paths from organization IDs.
 
 ## Usage
 
